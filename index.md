@@ -1,5 +1,6 @@
 ---
-layout: home
+layout: page
+title: 主页 (Home)
 ---
 
 # 11/24 ~ 11/26

@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  问题解答(FAQ)
+title:  问题解答 (FAQ)
 ---
 
 # 常见

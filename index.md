@@ -1,10 +1,8 @@
 ---
-# You don't need to edit this file, it's empty on purpose.
-# Edit theme's home layout instead if you wanna make some changes
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: page
-title: 主页(Home)
 ---
+
+# 11/24 ~ 11/26
 
 # 链接 (Links)
 * [往年信息汇总 (Retreat Audio Recordings)](audio.html)
@@ -16,11 +14,10 @@ title: 主页(Home)
 * [行车路线 (Driving Direction)](https://goo.gl/maps/SvBM3ZAddBs)
 * [电邮我们 (Email us)](SmileFellowshipNJ@gmail.com)
 
-# [退修会介绍 Retreat introduction](intro.html)
+# [退修会主题 Retreat Theme](intro.html)
 
-#### 与人相处的智慧
-
-#### The Wisdom in Community
+#### 与人相处的智慧 (The Wisdom in Community)
+主题讲员: 刘志雄 长老 (Main Speaker: Peter Liu)
 
 # [专题介绍 Workshop Introduction](intro.html)
 

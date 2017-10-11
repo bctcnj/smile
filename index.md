@@ -1,6 +1,5 @@
 ---
-layout: page
-title: 主页 (Home)
+layout: default
 ---
 
 # 11/24 ~ 11/26
@@ -15,12 +14,12 @@ title: 主页 (Home)
 * [行车路线 (Driving Direction)](https://goo.gl/maps/SvBM3ZAddBs)
 * [电邮我们 (Email us)](SmileFellowshipNJ@gmail.com)
 
-# [退修会主题 Retreat Theme](intro.html)
+# [退修会主题 Retreat Theme](theme.html)
 
 #### 与人相处的智慧 (The Wisdom in Community)
 主题讲员: 刘志雄 长老 (Main Speaker: Peter Liu)
 
-# [专题介绍 Workshop Introduction](intro.html)
+# [专题介绍 Workshop Introduction](workshop.html)
 
 #### 专题：成瘾与脱瘾 (Workshop: To Understand and Overcome Addiction)
 讲员：喻马可

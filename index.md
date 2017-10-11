@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# 11/24 ~ 11/26
+## 11/24 ~ 11/26
 
 # 链接 (Links)
 * [往年信息汇总 (Retreat Audio Recordings)](audio.html)

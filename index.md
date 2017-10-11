@@ -1,5 +1,6 @@
 ---
 layout: default
+title:
 ---
 
 # 11/24 ~ 11/26

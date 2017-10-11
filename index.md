@@ -4,16 +4,6 @@ layout: default
 
 # 11/24 ~ 11/26
 
-# 链接 (Links)
-* [往年信息汇总 (Retreat Audio Recordings)](audio.html)
-* [营地地图 (Retreat Site Map)](Map.pdf)
-* [退修会停车登记 (Retreat Site Vehicle Registration)](Vehicle_Registration.pdf)
-* [退修会注册, 更改注册信息 (Register for Retreat, Modify Registration)](registration.html)
-* [免责声明表 (Liability Form)](liability.pdf)
-* [退修会营地介绍 (Retreat Site)](http://www.hcbible.org/)
-* [行车路线 (Driving Direction)](https://goo.gl/maps/SvBM3ZAddBs)
-* [电邮我们 (Email us)](SmileFellowshipNJ@gmail.com)
-
 # [退修会主题 Retreat Theme](theme.html)
 
 #### 与人相处的智慧 (The Wisdom in Community)
@@ -28,6 +18,16 @@ Speaker: Mark Yu
 #### 探索：衝突 (A Dialog: Conflict)
 讲员：李家玮
 Speaker: Jeff Lee
+
+# 链接 (Links)
+* [往年信息汇总 (Retreat Audio Recordings)](audio.html)
+* [营地地图 (Retreat Site Map)](Map.pdf)
+* [退修会停车登记 (Retreat Site Vehicle Registration)](Vehicle_Registration.pdf)
+* [退修会注册, 更改注册信息 (Register for Retreat, Modify Registration)](registration.html)
+* [免责声明表 (Liability Form)](liability.pdf)
+* [退修会营地介绍 (Retreat Site)](http://www.hcbible.org/)
+* [行车路线 (Driving Direction)](https://goo.gl/maps/SvBM3ZAddBs)
+* [电邮我们 (Email us)](SmileFellowshipNJ@gmail.com)
 
 # 退修会期间我们做什么？
 * 在诗歌中敬拜神

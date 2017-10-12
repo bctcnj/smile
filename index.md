@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Smile Retreat 2017
+# Thanksgiving Retreat 2017
 
 ## Date: 11/24 ~ 11/26
 ## [注册与行程 (Registration & Schedule)](registration.html)

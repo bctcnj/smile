@@ -4,18 +4,20 @@ layout: default
 
 # 11/24 ~ 11/26
 
-# [退修会主题 Retreat Theme](theme.html)
+# [主题 Theme](theme.html)
 
-#### 与人相处的智慧 (The Wisdom in Community)
+## 与人相处的智慧 (The Wisdom in Community)
 主题讲员: 刘志雄 长老 (Main Speaker: Peter Liu)
 
-# [专题介绍 Workshop Introduction](workshop.html)
+主题经文: 雅各书 1－2 章 (Scripture: James 1-2)
 
-#### 专题：成瘾与脱瘾 (Workshop: To Understand and Overcome Addiction)
+# [专题 Workshop](workshop.html)
+
+### 成瘾与脱瘾 (To Understand and Overcome Addiction)
 讲员：喻马可
 Speaker: Mark Yu
 
-#### 探索：衝突 (A Dialog: Conflict)
+### 探索：衝突 (A Dialog: Conflict)
 讲员：李家玮
 Speaker: Jeff Lee
 
@@ -27,7 +29,7 @@ Speaker: Jeff Lee
 * [免责声明表 (Liability Form)](liability.pdf)
 * [退修会营地介绍 (Retreat Site)](http://www.hcbible.org/)
 * [行车路线 (Driving Direction)](https://goo.gl/maps/SvBM3ZAddBs)
-* [电邮我们 (Email us)](SmileFellowshipNJ@gmail.com)
+* [电邮我们 (Email us)](mailto:SmileFellowshipNJ@gmail.com)
 
 # 退修会期间我们做什么？
 * 在诗歌中敬拜神

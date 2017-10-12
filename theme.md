@@ -6,6 +6,8 @@ title: 主题 (Theme)
 ## 与人相处的智慧
 主题讲员: 刘志雄 长老
 
+主题经文: 雅各书 1－2 章
+
 《雅各书》是新约最早成书的一卷，作者是耶稣肉身的亲弟弟，“耶稣爱之奴隶”的雅各，
 授书人是分散各地的信耶稣的犹太人，也是写给我们这些在基督里的“真以色列人”。这
 卷书，好似新约的《箴言》，又好似是耶稣《登山宝训》的再现。圣灵特别把它选进圣经，
@@ -28,6 +30,8 @@ the sons of a king）”，满有“智慧的温柔”，作人际关系的“�
 
 ## The Wisdom in Community
 Main Speaker: Peter Liu
+
+Scripture: James 1-2
 
 The Epistle of James is the first book to be completed in the
 New Testament. It was penned by Jesus’ blood brother, who was

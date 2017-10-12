@@ -15,8 +15,17 @@ Please input your information in detail on the
 We will arrange the lodging and pick up accordingly based on your
 information in the registration form.
 
+# 报到时间 (Onsite Check-in)
 
-# 接送信息 (Pick Up)
+11/24 12:30 - 14:20
+
+# 退休会行程 (Retreat Schedule)
+
+[Link](https://goo.gl/NVoLjr)
+
+<iframe style="width:100%; height:850px;" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQWHKxI0Ob5w6oQqISdj5vaN1mgBjuawf3gRHbJA-AhWKmSFqRSMBZgFlRKd91WMozsHxlYptLMYWow/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+
+# 接送 (Pick Up)
 
 如果您是独自坐飞机从外州来参加退修会，我们可以为您提供 Newark 机场（EWR）的接机。
 

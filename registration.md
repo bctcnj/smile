@@ -10,10 +10,10 @@ title:  注册 (Registration)
 Please input your information in detail on the
 [online registration form](register.php).
 
-我们会根据你的信息，安排住宿，接送。
+我们会根据你的信息，安排当天的接送和营会的住宿。
 
-We will arrange the lodging and pick up accordingly based on your
-information in the registration form.
+We will arrange the lodging on the camp and pickup on that day accordingly
+based on your information in the registration form.
 
 __注册截止日期：`2017年11月10日`__
 注册条件与原则: 报名者必须15岁或者以上.

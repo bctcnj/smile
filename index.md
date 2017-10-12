@@ -2,16 +2,19 @@
 layout: default
 ---
 
-# 11/24 ~ 11/26
+# Smile Retreat 2017
 
-# [主题 Theme](theme.html)
+## Date: 11/24 ~ 11/26
+## [注册与行程 (Registration & Schedule)](registration.html)
 
-## 与人相处的智慧 (The Wisdom in Community)
+# 主题 (Theme)
+
+## [与人相处的智慧 (The Wisdom in Community)](theme.html)
 主题讲员: 刘志雄 长老 (Main Speaker: Peter Liu)
 
 主题经文: 雅各书 1－2 章 (Scripture: James 1-2)
 
-# [专题 Workshop](workshop.html)
+# [专题 (Workshop)](workshop.html)
 
 ### 成瘾与脱瘾 (To Understand and Overcome Addiction)
 讲员：喻马可
@@ -99,32 +102,5 @@ __营地地址 (Retreat Site Address)__
 Harvey Cedars, NJ
 08008
 ```
-
-# 注册 (Registration)
-如果您在报名截至过了之后还想注册，请通过电子邮件 `SmileFellowshipNJ@gmail.com`
-联系我们. 由于房间分配的问题，我们不能确保您还可以报上名.
-注册截至日期是：`2017年11月10日`
-注册条件与原则: 报名者必须15岁或者以上.
-
-# 花费 (Cost)
-我们不收取任何的注册费用，一律采用自由奉献的方式. 如果您奉献的话，
-支票抬头请写: `Bergen Christian Testimony Church`
-Memo Note 请写 `S'mile Retreat`
-
-我们会在来年一月底的时候向你支票上的地址寄去可扣税的清单
-
-参考费用如下:
-* 18岁或以上 $170
-* 12 ~ 17 $95
-
-We don't take any registration fees but will take free will offering.
-To offer, please make the check payable to `Bergen Christian Testimony
-Church`. Memo Note for `S'mile Retreat`.
-We will make the tax deductible receipt around the end of January based
-on the name and address on the check.
-
-Cost Estimates are as follows:
-* 18 and over: $180
-* 12 ~ 17: $95
 
 # [问题解答 (Frequently Asked Questions)](faq.html)

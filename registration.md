@@ -15,6 +15,24 @@ Please input your information in detail on the
 We will arrange the lodging and pick up accordingly based on your
 information in the registration form.
 
+__注册截止日期：`2017年11月10日`__
+注册条件与原则: 报名者必须15岁或者以上.
+
+__Deadline__: `11/10/2017`
+Requirements: You need to be older than 15.
+
+# 花费 (Cost)
+* 18 岁及以上 (18 and above): $200
+* 15 ~ 17: 免费 (Free)
+
+支票抬头请写: `Bergen Christian Testimony Church`, Memo Note 请写
+`S'mile Retreat`. 我们会在来年一月底的时候向你支票上的地址寄去可扣税的清单
+
+Please make the check payable to `Bergen Christian Testimony
+Church`. Memo Note for `S'mile Retreat`.
+We will make the tax deductible receipt around the end of January based
+on the name and address on the check.
+
 # 报到时间 (Onsite Check-in)
 
 11/24 12:30 - 14:20

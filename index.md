@@ -10,19 +10,24 @@ layout: default
 # 主题 (Theme)
 
 ## [与人相处的智慧 (The Wisdom in Community)](theme.html)
-主题讲员: 刘志雄 长老 (Main Speaker: Peter Liu)
 
-主题经文: 雅各书 1－2 章 (Scripture: James 1-2)
+主题经文: 雅各书 2－3 章 (Scripture: James 2-3)
 
 # [专题 (Workshop)](workshop.html)
 
+### 从圣经的原则学习作好单身，妻子，母亲，婆婆的角色
+(How to be single, wife, mother or in-law: the Biblical perspective)
+
+讲员：刘王爱君
+(Speaker: Auntie Aichun)
+
 ### 成瘾与脱瘾 (To Understand and Overcome Addiction)
 讲员：喻马可
-Speaker: Mark Yu
+(Speaker: Mark Yu)
 
 ### 探索：衝突 (A Dialog: Conflict)
 讲员：李家玮
-Speaker: Jeff Lee
+(Speaker: Jeff Lee)
 
 # 链接 (Links)
 * [往年信息汇总 (Retreat Audio Recordings)](audio.html)

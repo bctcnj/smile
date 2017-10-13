@@ -18,7 +18,7 @@ based on your information in the registration form.
 __注册截止日期：`2017年11月10日`__
 注册条件与原则: 报名者必须15岁或者以上.
 
-__Deadline__: `11/10/2017`
+__Registration Deadline__: `11/10/2017`
 Requirements: You need to be older than 15.
 
 # 花费 (Cost)

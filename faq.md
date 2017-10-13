@@ -38,7 +38,7 @@ __我报到的时候该带什么？__
 
 __报到时间是？__
 
-报到时间是11月27号上午11点到下午3点，如果您需要在其他时间报到，请电邮我们
+报到时间是11月24号上午11点到下午2点，如果您需要在其他时间报到，请电邮我们
 
 __为什么要在餐食和住宿的框中打勾？__
 
@@ -94,7 +94,7 @@ Bring your confirmation letter, and signed liability form (1 per person)
 
 __When can I check-in?__
 
-Check-in is available from 11am of Nov 25th to 3pm. Please email us if you need to check-in outside of this period.
+Check-in is available from 11am of Nov 24th to 2pm. Please email us if you need to check-in outside of this period.
 
 __Meals and Lodging, why are there individual checkboxes for them?__
 

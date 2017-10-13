@@ -28,7 +28,7 @@ Speaker: Jeff Lee
 * [往年信息汇总 (Retreat Audio Recordings)](audio.html)
 * [营地地图 (Retreat Site Map)](Map.pdf)
 * [退修会停车登记 (Retreat Site Vehicle Registration)](Vehicle_Registration.pdf)
-* [退修会注册, 更改注册信息 (Register for Retreat, Modify Registration)](registration.html)
+* [更改退修会注册信息 (Modify Registration)](login.php)
 * [免责声明表 (Liability Form)](liability.pdf)
 * [退修会营地介绍 (Retreat Site)](http://www.hcbible.org/)
 * [行车路线 (Driving Direction)](https://goo.gl/maps/SvBM3ZAddBs)

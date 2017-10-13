@@ -5,10 +5,10 @@ title:  注册 (Registration)
 
 # 注册 (Registration)
 
-请于在线注册系统中输入你的详细信息: [进入注册](register.php)
+请于在线注册系统中输入你的详细信息: [进入注册](register.php?firsttime=1)
 
 Please input your information in detail on the
-[online registration form](register.php).
+[online registration form](register.php?firsttime=1).
 
 我们会根据你的信息，安排当天的接送和营会的住宿。
 

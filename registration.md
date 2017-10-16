@@ -21,6 +21,9 @@ __注册截止日期：`2017年11月10日`__
 __Registration Deadline__: `11/10/2017`
 Requirements: You need to be older than 15.
 
+* [更改退修会注册信息 (Modify Registration)](login.php)
+* [免责声明表 (Liability Form)](liability.pdf)
+
 # 花费 (Cost)
 * 18 岁及以上 (18 and above): $200
 * 15 ~ 17: 免费 (Free)

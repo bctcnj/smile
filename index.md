@@ -19,12 +19,11 @@ layout: default
 讲员：喻马可
 (Speaker: Mark Yu)
 
-### 探索：衝突 (A Dialog: Conflict)
+### 探索：衝突 (Dissecting Conflict)
 讲员：李家玮
 (Speaker: Jeff Lee)
 
-### 作女人的艺术
-(The Art of Being a Woman)
+### 作女人的艺术 (The Art of Being a Woman)
 
 讲员：刘王爱君
 (Speaker: Auntie Aichun)

@@ -33,7 +33,7 @@ __讲员：李家玮__
 還有方法，但是真的為我們解決問題了嗎?  這個專題盼望能夠與聽眾一同探索衝突
 的起點，進而找到出路，或者一個正確看待它的眼光。
 
-### A Dialog: Conflict
+### Dissecting Conflict
 __Speaker: Jeff Lee__
 
 Conflict, a matter in which we hate to deal with but yet cannot escape.

@@ -15,12 +15,6 @@ layout: default
 
 # [专题 (Workshop)](workshop.html)
 
-### 从圣经的原则学习作好单身，妻子，母亲，婆婆的角色
-(How to be single, wife, mother or in-law: the Biblical perspective)
-
-讲员：刘王爱君
-(Speaker: Auntie Aichun)
-
 ### 成瘾与脱瘾 (To Understand and Overcome Addiction)
 讲员：喻马可
 (Speaker: Mark Yu)
@@ -28,6 +22,12 @@ layout: default
 ### 探索：衝突 (A Dialog: Conflict)
 讲员：李家玮
 (Speaker: Jeff Lee)
+
+### 作女人的艺术
+(The Art of Being a Woman)
+
+讲员：刘王爱君
+(Speaker: Auntie Aichun)
 
 # 链接 (Links)
 * [往年信息汇总 (Retreat Audio Recordings)](audio.html)

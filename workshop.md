@@ -3,17 +3,6 @@ layout: page
 title: 专题 (Workshop)
 ---
 
-### 从圣经的原则学习作好单身，妻子，母亲，婆婆的角色
-__讲员：刘王爱君__
-
-作女人的艺术--从圣经的原则学习作好单身，妻子，母亲，婆婆的角色。
-
-### How to be single, wife, mother or in-law: the Biblical perspective
-__Speaker: Auntie Aichun__
-
-The Art of Being a Woman: Learning to be single, a wife, mother, or mother
-in law from a Biblical perspective.
-
 ### 成瘾与脱瘾
 __讲员：喻马可__
 
@@ -54,4 +43,15 @@ conflict come from?  Where will conflict take us to?  The market is filled
 with conflict resolution teachings, consulting services, and techniques.
 However did they truly solve the problem for us?  This workshop hopes to
 discover the source of conflicts so a path forward may be found and even
-more so a right perspective may be gained in dealing with it.  
+more so a right perspective may be gained in dealing with it.
+
+### 作女人的艺术
+__讲员：刘王爱君__
+
+作女人的艺术--从圣经的原则学习作好单身，妻子，母亲，婆婆的角色。
+
+### The Art of Being a Woman
+__Speaker: Auntie Aichun__
+
+The Art of Being a Woman: Learning to be single, a wife, mother, or mother
+in law from a Biblical perspective.

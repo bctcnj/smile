@@ -4,8 +4,7 @@ layout: default
 
 # Thanksgiving Retreat 2017
 
-## Date: 11/24 ~ 11/26
-## [注册与行程 (Registration & Schedule)](registration.html)
+## [录音(Audio Recordings)](audio.html)
 
 # 主题 (Theme)
 
